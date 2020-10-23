@@ -2,7 +2,10 @@
 
 Problemas para identificar datos de entrada/salida, asignaciones y condiciones
 
-1. Construya un algoritmo que dado los datos enteros A y B, escriba el resultado de la expresión  
+1. Construya un algoritmo que dado los datos enteros A y B, escriba el resultado de la expresión
+
+\fraq{(A+B)^2}{3}
+
 2. Construya un diagrama de flujo tal que dados los datos A, B, C, D, que representan números enteros, escriba los mismos en orden inverso.
 3.	Dado el código y las 5 calificaciones de un alumno, obtenidas a lo largo del semestre, construya un algoritmo que imprima el código del alumno y el promedio de sus calificaciones.
 4.	Escriba un diagrama de flujo que permita calcular e imprimir el cuadrado y el cubo de un número entero positivo x.
